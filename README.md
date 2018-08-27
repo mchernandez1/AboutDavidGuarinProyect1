@@ -9,4 +9,4 @@
 ## Demo
 ### click to go to the [website](https://dgguarin20.github.io/AboutDavidGuarinProyect1/index.html)
 
-###By David Gustavo Guarin Rojas, licensed by MIT
+Made by David Gustavo Guarin Rojas, licensed by MIT
