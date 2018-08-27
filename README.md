@@ -1,4 +1,4 @@
-#Proyect 1: My website
+Proyect 1: My website
 
 ## Objective:
 ### Its a website that describes things about me. 
