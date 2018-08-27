@@ -7,6 +7,10 @@ Proyect 1: My website
 ### It uses html, css, javascript and bootstrap.
 
 ## Demo
+
+[[https://github.com/dgguarin20/AboutDavidGuarinProyect1/blob/master/source/recorte.JPG]]
+
+
 ### click to go to the [website](https://dgguarin20.github.io/AboutDavidGuarinProyect1/index.html)
 
 Made by David Gustavo Guarin Rojas, licensed by MIT
